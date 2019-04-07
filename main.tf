@@ -1,3 +1,5 @@
+# This is a custom module being picked from Terraform Registry
+
 module "vpc" {
   source = "terraform-aws-modules/vpc/aws"
 
